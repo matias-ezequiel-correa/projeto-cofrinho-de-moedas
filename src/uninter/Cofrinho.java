@@ -7,7 +7,7 @@ public class Cofrinho {
 	private ArrayList<Moeda> listaMoedas; //Criação de um espaço para armazenar a lista de moedas
 	
 	public Cofrinho() {
-		this.listaMoedas = new ArrayList<>(); //Inicializar com uma lista vázia de moedas
+		this.listaMoedas = new ArrayList<>(); //Inicializar com a lista de moedas vázia 
 	}
 	
 	public void adicionar(Moeda moeda) { 

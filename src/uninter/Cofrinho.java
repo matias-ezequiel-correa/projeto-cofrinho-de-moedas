@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Cofrinho {
 	
-	private ArrayList<Moeda> listaMoedas; //Criação de um espaço para armazenar uma lista de moedas
+	private ArrayList<Moeda> listaMoedas; //Criação de um espaço para armazenar a lista de moedas
 	
 	public Cofrinho() {
 		this.listaMoedas = new ArrayList<>(); //Inicializar com uma lista vázia de moedas

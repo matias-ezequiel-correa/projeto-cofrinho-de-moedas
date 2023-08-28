@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo " src="https://i.ibb.co/rcj4Gfn/coin-mario.gif" width="125" />
+  <img alt="Logo" src="https://i.ibb.co/rcj4Gfn/coin-mario.gif" width="125" />
 </div>
 <h1 align="center">
   Matías Ezequiel Correa - Projeto "Cofrinho de Moedas"
